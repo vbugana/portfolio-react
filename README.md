@@ -1,18 +1,12 @@
-<h2 align="center">
-  Portfolio Website live demo
-  <a href="https://vbugana.github.io/react-portfolio-main-hope/" target="_blank">Vittoria Bugana Portfolio</a>
+
+ # Portfolio Website
   
-</h2>
-<div align="center">
-  <img width="960" alt="image" src="TBD.png">
-</div>
+  ![demo](https://user-images.githubusercontent.com/61995940/219255757-7f0fb725-eb2c-4f4c-8288-3dd770426cee.jpg)
 
-## Built With
 
-My personal portfolio   <a href="https://vbuganaportfolio.netlify.app/" target="_blank">https://vbuganaportfolio.netlify.app/</a> <br/>
+## Built With:
 
 This project was built using these technologies:
-
 - Javascript
 - HTML5
 - React.js
