@@ -1,6 +1,7 @@
 <h2 align="center">
   Portfolio Website live demo
-  <a href="https://vbuganaportfolio.netlify.app/" target="_blank">Vittoria Bugana Portfolio</a>
+  <a href="https://vbugana.github.io/react-portfolio-main-hope/" target="_blank">Vittoria Bugana Portfolio</a>
+  
 </h2>
 <div align="center">
   <img width="960" alt="image" src="TBD.png">
