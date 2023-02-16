@@ -11,8 +11,8 @@ function SocialMedia() {
       <li className="social-icons">
         <a
           href="https://github.com/vbugana"
-          target="_blank"
-          rel="noreferrer"
+          target="_blank"   
+          rel="noopener noreferrer"
           className="icon-colour  home-social-icons"
         >
           <AiFillGithub className="social-icon" />
@@ -21,8 +21,8 @@ function SocialMedia() {
       <li className="social-icons">
         <a
           href="https://www.linkedin.com/in/vittoria-bugana-71974532/"
-          target="_blank"
-          rel="noreferrer"
+          target="_blank"        
+          rel="noopener noreferrer"
           className="icon-colour  home-social-icons"
         >
           <FaLinkedinIn className="social-icon" />
@@ -32,7 +32,7 @@ function SocialMedia() {
         <a
           href="mailto:vittoriabugana@gmail.com"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
           className="icon-colour home-social-icons"
         >
           <MdEmail className="social-icon" />
