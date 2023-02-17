@@ -1,14 +1,10 @@
 
  # Portfolio Website
- 
-  Demo 
   
-  https://user-images.githubusercontent.com/61995940/219514045-c5616129-e051-4a0c-a0f8-5f8d73eb693b.mp4
+ https://user-images.githubusercontent.com/61995940/219514045-c5616129-e051-4a0c-a0f8-5f8d73eb693b.mp4
 
+[Click here](https://vbugana.github.io/react-portfolio-main-hope/)
 
-![Check this out](https://www.youtube.com/watch?v=ek1j272iAmc)
-or
-![Click here](https://vbugana.github.io/react-portfolio-main-hope/)
 ## Built With:
 
 This project was built using these technologies:
