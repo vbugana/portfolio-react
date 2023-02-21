@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d231c175.css",
+    "main.js": "/static/js/main.7b4ef140.js",
+    "static/media/coderefactoring.jpeg": "/static/media/coderefactoring.c672fcf0b6bd0c33ff16.jpeg",
+    "static/media/vittoria.jpg": "/static/media/vittoria.0f56dfa222c6077ca6a6.jpg",
+    "static/media/developer.jpg": "/static/media/developer.64df6f405733aee1fe05.jpg",
+    "static/media/READMEgenerator.jpg": "/static/media/READMEgenerator.ef92a37240eede16ef0c.jpg",
+    "static/media/weatherdashboard.jpeg": "/static/media/weatherdashboard.7e9fcf63d423e8f46b0e.jpeg",
+    "static/media/Vittoria_Resume.pdf": "/static/media/Vittoria_Resume.2ec34d4b96e8205828d2.pdf",
+    "static/media/team-generator-output.jpeg": "/static/media/team-generator-output.399fd7d8d2f2bf956293.jpeg",
+    "static/media/workdayschedule.jpg": "/static/media/workdayschedule.beb685c24e2b4e6142c1.jpg",
+    "static/media/password-generator.jpeg": "/static/media/password-generator.aa25cbf89939def02f6b.jpeg",
+    "index.html": "/index.html",
+    "main.d231c175.css.map": "/static/css/main.d231c175.css.map",
+    "main.7b4ef140.js.map": "/static/js/main.7b4ef140.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d231c175.css",
+    "static/js/main.7b4ef140.js"
+  ]
+}
