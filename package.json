@@ -1,6 +1,6 @@
 {
   "name": "vittoria-portfolio",
-  "homepage": "git://vbugana.github.io/react-portfolio/",
+  "homepage": "https://vbugana.github.io/react-portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,9 +24,9 @@
     "start": "react-scripts --openssl-legacy-provider start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b main -d build",
-    "build": "react-scripts  --openssl-legacy-provider build",
-    "test": "react-scripts  --openssl-legacy-provider test",
-    "eject": "react-scripts  --openssl-legacy-provider eject"
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts  eject"
   },
   "eslintConfig": {
     "extends": [
